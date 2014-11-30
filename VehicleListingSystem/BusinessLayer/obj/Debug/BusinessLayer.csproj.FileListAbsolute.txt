@@ -1,0 +1,9 @@
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\BusinessLayer\bin\Debug\Resources.dll
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\BusinessLayer\bin\Debug\Resources.pdb
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb

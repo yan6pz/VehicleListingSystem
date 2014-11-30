@@ -1,0 +1,5 @@
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\DataAccessLayer\obj\Release\DataAccessLayer.pdb
