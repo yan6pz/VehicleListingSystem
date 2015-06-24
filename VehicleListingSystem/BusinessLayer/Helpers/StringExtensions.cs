@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
+using System;
 
 namespace BusinessLayer.Helpers
 {
@@ -13,16 +8,15 @@ namespace BusinessLayer.Helpers
         {
             var path = GetContentDirectory();
             path = path.Substring(0, path.Length - 22);
-            var filePath = Path.Combine(path, name);
+            var filePath = System.IO.Path.Combine(path, name);
             return filePath;
         }
         private static string GetContentDirectory()
         {
-
             var folderName = AppDomain.CurrentDomain.BaseDirectory;
-            //var contentPath = Path.Combine(folderName);
-         
+
             return folderName;
         }
     }
 }
+
