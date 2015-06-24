@@ -11,15 +11,18 @@ namespace BusinessLayer.Helpers
     {
         public static string GetFilePath(this string name)
         {
-            var path = System.Web.HttpContext.Current.Server.MapPath((name));
-            var pattern = "VehicleListingSystem\\VehicleListingSystem\\";
-
-            var filePath = path.Replace(pattern, "VehicleListingSystem\\");
-            if (filePath.Contains("\\Vehicle\\"))
-            {
-                filePath = filePath.Replace("\\Vehicle\\", "\\");
-            }
+            var path = GetContentDirectory();
+            path = path.Substring(0, path.Length - 22);
+            var filePath = Path.Combine(path, name);
             return filePath;
+        }
+        private static string GetContentDirectory()
+        {
+
+            var folderName = AppDomain.CurrentDomain.BaseDirectory;
+            //var contentPath = Path.Combine(folderName);
+
+            return folderName;
         }
     }
 }
