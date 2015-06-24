@@ -21,7 +21,7 @@ namespace BusinessLayer.Helpers
 
             var folderName = AppDomain.CurrentDomain.BaseDirectory;
             //var contentPath = Path.Combine(folderName);
-            folderName+="problem";
+         
             return folderName;
         }
     }
