@@ -1,4 +1,0 @@
-C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
-C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
-C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
-C:\Users\Jiany\Documents\Visual Studio 2013\Projects\VehicleListingSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
